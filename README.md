@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/5b8feacf-b340-444e-8b40-5050bbe6bbfd/project/b3c46f9a-a13c-4a0f-840f-08e200589619.svg)](https://wakatime.com/badge/user/5b8feacf-b340-444e-8b40-5050bbe6bbfd/project/b3c46f9a-a13c-4a0f-840f-08e200589619)
+
 # Django Real Estate
 
 A real estate listing site made with Django 
